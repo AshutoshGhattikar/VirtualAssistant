@@ -118,7 +118,7 @@ def run_assistant():
             talk('okay')
 
     else:
-        talk("Say agian please")
+        talk("Say again please")
 
 
 while True:
